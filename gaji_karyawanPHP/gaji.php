@@ -29,4 +29,9 @@
     'name' => 'Citra',
     'position' => 'Manajer',
   ),
+  6 => 
+  array (
+    'name' => 'Ilham',
+    'position' => 'Staf',
+  ),
 );
